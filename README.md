@@ -1,2 +1,2 @@
 # grocerystore_lstm
-LSTM machine learning model to predict total sales of grocery store chain in equador.
+Machine learning project to predict total sales of a grocery store chain in equador
